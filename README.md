@@ -1,5 +1,5 @@
 # OWON-SCPI-interface
-Will there ever be a OWON SCPI interface?
+Will there ever be a working OWON SCPI interface?
 
 Zurich, 7.12.2019
 
