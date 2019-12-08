@@ -1,5 +1,6 @@
 # OWON-SCPI-interface
-Will there ever be a working OWON SCPI interface?
+
+Owon oscilloscope MATLAB interface almost reality?
 
 Zurich, 7.12.2019
 
