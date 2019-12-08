@@ -1,6 +1,6 @@
 # OWON-SCPI-interface
 
-Owon oscilloscope MATLAB interface almost reality?
+Owon oscilloscope MATLAB near to be real?
 
 Zurich, 7.12.2019
 
