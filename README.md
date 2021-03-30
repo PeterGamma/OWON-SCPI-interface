@@ -2,6 +2,9 @@
 
 7.12.2019
 
-https://www.mathworks.com/matlabcentral/answers/518160-is-there-an-example-of-an-owon-scpi-matlab-script-which-connects-to-owon-oscilloscopes?s_tid=prof_contriblnk
+https://www.eevblog.com/forum/testgear/owon-ag-1012-awg-matlab/msg1871897/#msg1871897
+
+
+
 
 
